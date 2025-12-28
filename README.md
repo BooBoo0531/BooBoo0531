@@ -28,15 +28,4 @@
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BooBoo0531&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" alt="Ngan's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BooBoo0531&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" />
-</div>
-
 </div>
