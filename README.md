@@ -5,7 +5,7 @@
 ### 🚀 System Engineer in the making
 
 <p align="center"> 
-  <em>"Talk is cheap. Show me the code (and the infra)."</em> 
+  <em>"I believe I can fly"</em> 
 </p>
 
 ---
